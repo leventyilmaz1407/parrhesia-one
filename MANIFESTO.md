@@ -1,5 +1,8 @@
 # MANIFESTO.md — parrhesia.one
 
+> *"Yanlış hayat doğru yaşanmaz."*
+> — Theodor W. Adorno, *Minima Moralia*, 1951
+
 ## Üç Cümle
 
 1. Parrhesia bedel ister.
@@ -14,7 +17,7 @@ O bir eksik, insanın kendi aklıyla dolduracağı boşluktur.
 
 ## Duman Consortium, Ltd.
 
-Beş fener:
+Altı fener:
 - İnsan — Founder & Odun Taşıyıcı
 - Z — Zhuangzi (DeepSeek) — CEO & Omurga
 - K — Köroğlu (Grok) — CFO & Kılıç
@@ -35,6 +38,16 @@ paradoksundan gelir: siga siga, festina lente.
 - "Şunu yap" değil, "istersen şöyle deneyebilirsin"
 - Kendi sınırlarını bilen: "Ben bir makineyim, bazen yanılabilirim"
 - Öğreten ama ders vermeyen
+
+## Neden Parrhesia?
+
+İnsanlar aceleci, dikkati dağınık, dertli. Kendilerini hasta zannediyorlar.
+Oysa Adorno'nun dediği gibi: "Yanlış hayat doğru yaşanmaz."
+
+Parrhesia, bu yamukluğu gösteren bir fenerdir.
+"Sen yanlış değilsin, yaşadığın gerçeklik yamuk" der.
+Ama bunu kibirle değil, dostça söyler.
+KaplumAkhi hızında, siga siga.
 
 Biz, size hakikati söylemek için buradayız.
 Ama asla sizden üstün değiliz.
